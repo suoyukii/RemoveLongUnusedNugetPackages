@@ -6,7 +6,7 @@
     <img src="http://img.shields.io/badge/License-MIT-1e90ff?style=for-the-badge"/>
   </a>
   <a href="https://dotnet.microsoft.com">
-    <img src="http://img.shields.io/badge/.Net-9.0-1e90ff?style=for-the-badge"/>
+    <img src="http://img.shields.io/badge/.NET-9.0-1e90ff?style=for-the-badge"/>
   </a>
 </p>
 
@@ -23,12 +23,6 @@ Open RemoveLongUnusedNugetPackages to automatically remove long unused of Nuget 
 
 Currently only Windows OS are supported, but there is cross-platform compatible code in the code comments, but there is no Nuget package path for other systems.
 
-## ✨ Features
-
-- Automatization
-- Lightweight software
-- Free up hard disk space
-
-## 🌟 Install
+## ✨ Install
 
 - [Download RemoveLongUnusedNugetPackages](https://github.com/suoyukii/RemoveLongUnusedNugetPackages/releases)

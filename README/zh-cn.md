@@ -6,7 +6,7 @@
     <img src="http://img.shields.io/badge/License-MIT-1e90ff?style=for-the-badge"/>
   </a>
   <a href="https://dotnet.microsoft.com">
-    <img src="http://img.shields.io/badge/.Net-9.0-1e90ff?style=for-the-badge"/>
+    <img src="http://img.shields.io/badge/.NET-9.0-1e90ff?style=for-the-badge"/>
   </a>
 </p>
 
@@ -18,12 +18,6 @@
 
 目前只支持 Windows 操作系统，但在代码注释中有跨平台兼容的代码，但没有针对其他系统的 Nuget 软件包路径。
 
-## ✨ 特点
-
-- 自动化
-- 轻量级软件
-- 释放硬盘空间
-
-## 🌟 安装
+## ✨ 安装
 
 - [下载 RemoveLongUnusedNugetPackages](https://github.com/suoyukii/RemoveLongUnusedNugetPackages/releases)
