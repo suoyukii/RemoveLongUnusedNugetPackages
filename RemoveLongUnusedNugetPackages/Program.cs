@@ -18,9 +18,8 @@ var time = DateTime.Now.AddMonths(-3);
 // Remove start
 var dir_list = new DirectoryInfo(path).GetDirectories();
 foreach (var dir in dir_list)
-{
-    if (dir.LastWriteTime < time) dir.Delete(true);
-}
+    if (dir.LastWriteTime < time)
+        dir.Delete(true);
 
 Console.WriteLine(langs[2]);
 Console.ReadLine();
